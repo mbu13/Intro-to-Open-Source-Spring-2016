@@ -7,3 +7,4 @@ https://github.com/mbu13/Intro-to-Open-Source-Spring-2016/blob/master/mytypo.dif
 
 Bugfix link:
 https://bugs.freebsd.org/bugzilla/show_bug.cgi?id=207354
+https://bugs.freebsd.org/bugzilla/show_bug.cgi?id=207351
