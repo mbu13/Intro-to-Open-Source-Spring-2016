@@ -1,6 +1,7 @@
 ----------Step 1----------
 
 > CMakeLists.txt
+
   cmake_minimum_required (VERSION 2.6)
   project (Tutorial)
   
@@ -23,6 +24,7 @@
   add_executable(Tutorial tutorial.cxx)
 
 > tutorial.cxx
+
   // A simple program that computes the square root of a number
   #include <stdio.h>
   #include <stdlib.h>
@@ -50,6 +52,7 @@
 ----------Step 2----------
 
 > CMakeLists
+
   cmake_minimum_required (VERSION 2.6)
   project (Tutorial)
   
@@ -83,6 +86,7 @@
   target_link_libraries (Tutorial  ${EXTRA_LIBS})
 
 > tutorial.cxx
+
   // A simple program that computes the square root of a number
   #include <stdio.h>
   #include <stdlib.h>
@@ -125,6 +129,7 @@
 ----------Step 3----------
 
 > CMakeLists
+
   cmake_minimum_required (VERSION 2.6)
   project (Tutorial)
   
@@ -195,6 +200,7 @@
     )
 
 > tutorial.cxx
+
   // A simple program that computes the square root of a number
   #include <stdio.h>
   #include <stdlib.h>
@@ -238,6 +244,7 @@
 ----------Step 4----------
 
 > CMakeLists
+
   cmake_minimum_required (VERSION 2.6)
   project (Tutorial)
   
@@ -307,6 +314,7 @@
   do_test (0.0001 "0.0001 is 0.01")
 
 > tutroial.cxx
+
   // A simple program that computes the square root of a number
   #include <stdio.h>
   #include <stdlib.h>
@@ -349,6 +357,7 @@
 ----------Step 5----------
 
 > CMakeLists
+
   cmake_minimum_required (VERSION 2.6)
   project (Tutorial)
   
@@ -422,6 +431,7 @@
   do_test (0.0001 "0.0001 is 0.01")
 
 > tutorial.cxx
+
   // A simple program that computes the square root of a number
   #include <stdio.h>
   #include <stdlib.h>
