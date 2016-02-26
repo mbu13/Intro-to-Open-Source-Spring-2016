@@ -1,26 +1,26 @@
-########Step 1:########
+----------Step 1----------
 
-> CMakeLists.txt
-cmake_minimum_required (VERSION 2.6)
-project (Tutorial)
+CMakeLists.txt
+  cmake_minimum_required (VERSION 2.6)
+  project (Tutorial)
+  
+  # The version number.
+  set (Tutorial_VERSION_MAJOR 1)
+  set (Tutorial_VERSION_MINOR 0)
+  
+  # configure a header file to pass some of the CMake settings
+  # to the source code
+  configure_file (
+    "${PROJECT_SOURCE_DIR}/TutorialConfig.h.in"
+    "${PROJECT_BINARY_DIR}/TutorialConfig.h"
+    )
+  
+  # add the binary tree to the search path for include files
+  # so that we will find TutorialConfig.h
+  include_directories("${PROJECT_BINARY_DIR}")
 
-# The version number.
-set (Tutorial_VERSION_MAJOR 1)
-set (Tutorial_VERSION_MINOR 0)
-
-# configure a header file to pass some of the CMake settings
-# to the source code
-configure_file (
-  "${PROJECT_SOURCE_DIR}/TutorialConfig.h.in"
-  "${PROJECT_BINARY_DIR}/TutorialConfig.h"
-  )
-
-# add the binary tree to the search path for include files
-# so that we will find TutorialConfig.h
-include_directories("${PROJECT_BINARY_DIR}")
-
-# add the executable
-add_executable(Tutorial tutorial.cxx)
+  # add the executable
+  add_executable(Tutorial tutorial.cxx)
 
 > tutorial.cxx
 // A simple program that computes the square root of a number
@@ -47,7 +47,7 @@ int main (int argc, char *argv[])
   return 0;
 }
 
-########Step 2:########
+----------Step 2----------
 
 > CMakeLists
 cmake_minimum_required (VERSION 2.6)
@@ -122,7 +122,7 @@ int main (int argc, char *argv[])
   return 0;
 }
 
-########Step 3:########
+----------Step 3----------
 
 > CMakeLists
 cmake_minimum_required (VERSION 2.6)
@@ -235,7 +235,7 @@ int main (int argc, char *argv[])
 }
 
 
-########Step 4:########
+----------Step 4----------
 
 > CMakeLists
 cmake_minimum_required (VERSION 2.6)
@@ -346,7 +346,7 @@ int main (int argc, char *argv[])
   return 0;
 }
 
-########Step 5:########
+----------Step 5----------
 
 > CMakeLists
 cmake_minimum_required (VERSION 2.6)
