@@ -20,5 +20,5 @@ TABle5
 * Branches - [master] & [gh-pages]
 
 Youtube Links:
-1) https://youtu.be/66lRJL7SjlQ
-2) https://www.youtube.com/watch?v=n_7dLFs7qoA&feature=youtu.be
+* 1) https://youtu.be/66lRJL7SjlQ
+* 2) https://www.youtube.com/watch?v=n_7dLFs7qoA&feature=youtu.be
