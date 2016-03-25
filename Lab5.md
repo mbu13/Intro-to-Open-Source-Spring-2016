@@ -241,7 +241,7 @@
                 inputValue, outputValue);
         return 0;
       }
-
+![screen shot 2016-03-24 at 10 20 06 pm](https://cloud.githubusercontent.com/assets/4596631/14036384/a16e6ba6-f20e-11e5-8b16-3312f46a05a2.png)
 
 ----------Step 4----------
 
@@ -355,6 +355,7 @@
                 inputValue, outputValue);
         return 0;
       }
+![screen shot 2016-03-24 at 10 21 33 pm](https://cloud.githubusercontent.com/assets/4596631/14036412/eb5e74cc-f20e-11e5-901f-e81a32ea41ac.png)
 
 ----------Step 5----------
 
@@ -472,4 +473,4 @@
                 inputValue, outputValue);
         return 0;
       }
-    
+![screen shot 2016-03-24 at 10 23 41 pm](https://cloud.githubusercontent.com/assets/4596631/14036424/198eddc8-f20f-11e5-87ed-aa216b6eba95.png)
