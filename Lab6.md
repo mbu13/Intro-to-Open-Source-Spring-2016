@@ -25,7 +25,6 @@ Youtube Links:
 * 3) https://www.youtube.com/watch?v=O7YU-3ULJyc&feature=youtu.be
 
 Python Unittest Output:
-![screen shot 2016-03-25 at 12 25 05 am](https://cloud.githubusercontent.com/assets/4596631/14037923/1d74679e-f220-11e5-91fe-79aeb14b439b.png)
 
 Link to code:
 * Markdown: https://github.com/mbu13/Intro-to-Open-Source-Spring-2016/blob/master/markdown.py
