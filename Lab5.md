@@ -48,6 +48,7 @@
                 inputValue, outputValue);
         return 0;
       }
+![screen shot 2016-03-24 at 10 06 41 pm](https://cloud.githubusercontent.com/assets/4596631/14036328/413d6138-f20e-11e5-869e-43cb65fb77e9.png)
 
 ----------Step 2----------
 
@@ -125,6 +126,7 @@
                 inputValue, outputValue);
         return 0;
       }
+![screen shot 2016-03-24 at 10 13 49 pm](https://cloud.githubusercontent.com/assets/4596631/14036329/42ea586a-f20e-11e5-9d29-178944df4bd7.png)
 
 ----------Step 3----------
 
