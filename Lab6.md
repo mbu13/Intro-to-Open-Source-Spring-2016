@@ -25,6 +25,7 @@ Youtube Links:
 * 3) https://www.youtube.com/watch?v=O7YU-3ULJyc&feature=youtu.be
 
 Python Unittest Output:
+
 ![screen shot 2016-03-25 at 12 19 20 pm](https://cloud.githubusercontent.com/assets/4596631/14048327/ee23a2d4-f283-11e5-8c15-c0768eb9c194.png)
 
 Link to code:
