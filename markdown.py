@@ -51,5 +51,9 @@ for line in fileinput.input():
   line = line.rstrip() 
   line = convertStrong(line)
   line = convertEm(line)
+  line = convertH1(line)
+  line = convertH2(line)
+  line = convertH3(line)
+  line = convertBlockQuote(line)
   print '<p>' + line + '</p>',
 
