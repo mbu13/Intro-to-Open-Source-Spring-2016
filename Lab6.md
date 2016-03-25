@@ -23,3 +23,8 @@ Youtube Links:
 * 1) https://youtu.be/66lRJL7SjlQ
 * 2) https://www.youtube.com/watch?v=n_7dLFs7qoA&feature=youtu.be
 * 3) https://www.youtube.com/watch?v=O7YU-3ULJyc&feature=youtu.be
+
+Python Unittest Output:
+![screen shot 2016-03-25 at 12 25 05 am](https://cloud.githubusercontent.com/assets/4596631/14037923/1d74679e-f220-11e5-91fe-79aeb14b439b.png)
+
+Link to code:
