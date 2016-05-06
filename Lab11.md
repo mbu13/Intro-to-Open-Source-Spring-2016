@@ -10,7 +10,7 @@ Part 2 and 3)
 
 Slack - the community is very motivated and demonstrates very professional behavior. Whenever people have questions, people answer with sincerity and clarity. The various channels offer different places to participate in respective topics/courses. Overall, the Slack channel is welcoming and useful.
 
-#Part3
+#Part 3
 
 Part 1)
 
